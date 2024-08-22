@@ -1,0 +1,9 @@
+Id : 
+Title : 
+Model : 
+Year : 
+Brand : 
+Price:
+On road price (est):
+Fuel type : 
+Image : 
